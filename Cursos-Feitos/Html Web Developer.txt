@@ -1,6 +1,6 @@
 Tecnologias aprendidas
 
-Lócica de programação
+Lógica de programação
 Html
 Css
 Introdução a JavaScript
