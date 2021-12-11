@@ -1,6 +1,6 @@
 # Progresso-dos-meus-estudos
-Uma forma de acompanhar meu progresso nos estudos
+Uma forma de acompanhar meu progresso nos estudos.
 
-O que já estudei 
-O que estou estudando
-Qual o próximo passo
+1. O que já estudei.
+2. O que estou estudando.
+3. Qual o próximo passo.

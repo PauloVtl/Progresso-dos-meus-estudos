@@ -1,0 +1,18 @@
+Tecnologias - Aprendizados
+
+Projetos Ágeis com Scrum
+JavaScript ES6 
+Introdução ao TypeScript
+JavaScript
+ReactJS
+React Hooks
+React Native
+MySql
+Introdução ao MongoDB e Banco de Dados NoSQL
+Node.js
+Estilo Arquitetural REST com Node.js
+Node.js com Bancos de dados Relacionais (SQL)
+Microsserviços com Node.js
+Fundamentos de Arquitetura de Sistemas
+Introdução ao Docker
+Introdução a computação em nuvem usando AWS

@@ -1,0 +1,8 @@
+Tecnologias aprendidas
+
+Lócica de programação
+Html
+Css
+Introdução a JavaScript
+Git/Github
+
